@@ -1,0 +1,16 @@
+.style1 {
+    box-shadow: 0 4px 8px 0 rgb(228, 93, 93);
+    padding: 35px;
+    margin: 30px;
+    width: fit-content;
+}
+
+.style2 {
+    text-align: center;
+    text-shadow: 1.5px 2px 5px #F6DDCC;
+}
+
+.style3 {
+    height: 300px;
+    width: 500px;
+}
