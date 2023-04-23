@@ -1,11 +1,12 @@
+import "./Tours.css";
 function Tours(props) {
   return (
     <div>
-      {props.arrayData.map((item , i) => {
+      {props.arrayData.map((item, i) => {
         return (
-          <div className="tstyle">
-            <h3 className="namestyle">{item.name}</h3>
-            <img className="imgstyle" src={item.image} alt="error" />
+          <div className="style1">
+            <h3 className="style2">{item.name}</h3>
+            <img className="style3" src={item.image} alt="error" />
           </div>
         );
       })}
