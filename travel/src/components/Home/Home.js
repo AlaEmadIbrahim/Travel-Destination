@@ -1,6 +1,6 @@
-import Header from "../Header/Header.js";
-import Tours from "../Tours/Tours.js";
-import Footer from "../Footer/Footer.js";
+import Header from "../Header/Header";
+import Tours from "../Tours/Tours";
+import Footer from "../Footer/Footer";
 const data = require("../../data/db.json");
 
 function Home() {

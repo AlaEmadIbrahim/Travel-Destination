@@ -6,7 +6,7 @@ function Footer() {
       <a href="https://web.facebook.com/profile.php?id=https://www.facebook.com/groups/UTrippers/">
         social media link Facebook
       </a>
-      <h4>Author: Dheeshan</h4>
+      <h4>Author: ALA EMAD</h4>
     </div>
   );
 }
