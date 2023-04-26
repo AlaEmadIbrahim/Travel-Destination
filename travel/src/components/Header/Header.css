@@ -1,5 +1,14 @@
-.header1{
+.header1 {
   text-align: center;
-  background-color: #E59866 ;
-  color: rgb(172, 18, 18);  
-  }
+  background-color: #e59866;
+  color: rgb(172, 18, 18);
+}
+
+.home {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
